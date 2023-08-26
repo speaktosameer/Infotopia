@@ -2881,7 +2881,7 @@ button {
 }
 @media (min-width: 1600px) {
   .banner-section .all-shapes {
-    right: 15%;
+    right: 60%;
   }
 }
 .banner-section .all-shapes::after, .banner-section .all-shapes::before {
@@ -2982,7 +2982,7 @@ button {
 }
 @media (min-width: 1600px) {
   .banner-section .cbs-content-list ul li.shape-2 {
-    top: 30%;
+    top: 31%;
     right: 58%;
   }
 }
@@ -3010,32 +3010,8 @@ button {
 }
 @media (min-width: 1600px) {
   .banner-section .cbs-content-list ul li.shape-3 {
-    top: 42%;
-    right: 9%;
-  }
-}
-.banner-section .cbs-content-list ul li.shape-4 {
-  animation: up_down_3 6s infinite linear;
-  top: 26%;
-  right: 26%;
-}
-.banner-section .cbs-content-list ul li.shape-4 a {
-  background-image: linear-gradient(to right, #fe955c, #ff816d, #ff6d86, #ff5fa7, #ff5dcc);
-}
-.banner-section .cbs-content-list ul li.shape-4 a::after {
-  left: -38px;
-  background: #ff5dcc;
-}
-@media (min-width: 1200px) {
-  .banner-section .cbs-content-list ul li.shape-4 {
-    top: 21%;
-    right: 34%;
-  }
-}
-@media (min-width: 1600px) {
-  .banner-section .cbs-content-list ul li.shape-4 {
-    top: 53%;
-    right: 5%;
+    top: 78%;
+    right: 58%;
   }
 }
 .banner-section .cbs-content-list ul li.shape-5 {
@@ -3062,8 +3038,8 @@ button {
 }
 @media (min-width: 1600px) {
   .banner-section .cbs-content-list ul li.shape-5 {
-    top: 65%;
-    right: 8%;
+    top: 46%;
+    right: 78%;
   }
 }
 .banner-section .section-wrapper .banner-content .subtitle {
